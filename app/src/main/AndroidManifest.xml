@@ -22,10 +22,12 @@
         <activity android:name=".MensajePreEncuesta4" />
         <activity android:name=".MensajePostEncuesta" />
         <activity android:name=".Inicio" />
-        <activity android:name=".SeleccionarFormulaPrioridad" />
-        <activity android:name=".SeleccionarFormulaReciente" />
         <activity android:name=".AyudaGeneral" />
-        <activity android:name=".AyudaFormula"></activity>
+        <activity android:name=".AyudaFormula" />
+        <activity android:name=".Encuesta" />
+        <activity android:name=".CalcularFormula" />
+        <activity android:name=".FormulasPrioridad" />
+        <activity android:name=".FormulasRecientes"></activity>
     </application>
 
 </manifest>
