@@ -479,7 +479,7 @@ EFECTOS: Devuelve en una cadena el tipo de Formula. Los tipos pueden ser dos: es
         return true;
     }
 
-    public boolean introducirRecientes (String idFormula, String resultado,  Context context)
+    public boolean introducirRecientes (Integer idFormula, String resultado,  Context context)
     {
 
         //Abrir la base de datos y buscar la formula que coincide con la id .
